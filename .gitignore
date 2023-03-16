@@ -16,3 +16,6 @@
 # Virtual environments
 venv/
 .venv/
+
+# Output files
+*.DS_Store
